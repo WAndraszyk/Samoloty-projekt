@@ -1,2 +1,6 @@
 # Ships and planes - project
 Project created for Object Oriented Programming classes. The program simulates a world of ships and planes, which are added and removed from the map by the user. Each plane / ship is served by a separate thread. Program has a GUI created with Java Swing.
+![Zrzut ekranu 2021-09-14 143707](https://user-images.githubusercontent.com/85036241/133258734-f0a20a88-1cfb-4cee-9eb8-3317d3c45820.png)
+Ships and planes can be added to the map via the Control Panel. There are 2 main types of ships - passenger ships and aircraft carriers of which there are three types dedicated for three types of planes - bombers, figthers and civil planes. To create a plane of a given type there has to be at least one aircraft carrier dedicated for this particular type on the map.
+The user can click on the ship/plane to see detailed information about it such as fuel level, represented by a percentage bar, name of the ship/plane, position, current route etc.
+Routes of the ships are fixed while routes of the planes are changed randomly after reaching final destination or can be changed manualy via the details panel. The details panel can also be used to make an emergency landing with a plane or delete a plane/ship.
