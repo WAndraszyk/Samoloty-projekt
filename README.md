@@ -1,2 +1,2 @@
-# Samolot.java
-Projekt zaliczeniowy z Programowania Obiektowego. Program symuluje świat statków i samolotów, które są dodawane i usuwane z mapy przez użytkownika. Każdy samolot/statek jest obsługiwany przez osobny wątek.
+# Ships and planes - project
+Project created for Object Oriented Programming classes. The program simulates a world of ships and planes, which are added and removed from the map by the user. Each plane / ship is served by a separate thread. Program has a GUI created with Java Swing.
